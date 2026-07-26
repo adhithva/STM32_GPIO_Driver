@@ -1,0 +1,4 @@
+../drivers/Src/stm32f401xx_gpio_driver.c:14:6:GPIO_PeriClockControl	5
+../drivers/Src/stm32f401xx_gpio_driver.c:28:6:GPIO_Init	1
+../drivers/Src/stm32f401xx_gpio_driver.c:60:9:GPIO_ReadFromInputPin	1
+../drivers/Src/stm32f401xx_gpio_driver.c:69:6:GPIO_WriteToOutputPin	2
